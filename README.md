@@ -19,7 +19,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagooSG&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><br> <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagooSG&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<br>
 <div style="display: inline_block"><br>
   <img align="center" alt="Thiago-HTML5" height="40" width="50" src="https://cdn0.iconfinder.com/data/icons/HTML5/512/HTML_Logo.png">
   <img align="center" alt="Thiago-CSS" height="40" width="50" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png">
@@ -27,7 +26,7 @@
   <img align="center" alt="Thiago-Python" height="40" width="50" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png">
   <img align="right" alt="Thiago-Luffy" height="150" style="border-radius: 50px;" src="https://github.com/ThiagooSG/thiagoosg/blob/main/luffy.jpg?raw=true">
 </div>
- <br><br>
+<br><br>
 <div>
   <a href="https://www.youtube.com/channel/UCXGwK9k7fnf2tFtXCUnk_Yg" target="_blank"><img src="https://img.shields.io/badge/YouTube_Gaming-FF0000?style=for-the-badge&logo=youtube-gaming&logoColor=white" target="_blank"></a>
   <a href = "mailto:thiagosg.ti@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
