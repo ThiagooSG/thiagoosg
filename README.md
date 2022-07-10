@@ -19,6 +19,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagoosg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><br> <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoosg&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+<br>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Thiago-HTML5" height="30" width="40" src="https://cdn0.iconfinder.com/data/icons/HTML5/512/HTML_Logo.png">
+  <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png">
+  <img align="center" alt="Thiago-JS" height="30" width="40" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png">
+  <img align="center" alt="Thiago-Python" height="30" width="40" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png">
+  <img align="right" alt="Thiago-Luffy" height="150" style="border-radius: 80px;" src="https://i.pinimg.com/originals/a4/66/c1/a466c130f9fda1dd65eaf980bb9f9961.jpg">
+</div>
  <br><br>
 <div>
   <a href="https://www.youtube.com/channel/UCXGwK9k7fnf2tFtXCUnk_Yg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000? style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
