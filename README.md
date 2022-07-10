@@ -1,4 +1,4 @@
-<h1>Olá, eu sou o Thiago!</h1>
+<h1>Olá!!! Eu sou o Thiago!</h1>
 <h2> Um pouquinho sobre mim:</h2>
 <li> 🧑🏽‍💼 Hoje trabalho com suporte em automação comercial e industrial
 <li> 💻 Conhecimento em HTML, CSS, JavaScript e Python
