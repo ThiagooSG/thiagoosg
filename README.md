@@ -25,7 +25,7 @@
   <img align="center" alt="Thiago-CSS" height="100" width="100" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png">
   <img align="center" alt="Thiago-JS" height="100" width="100" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png">
   <img align="center" alt="Thiago-Python" height="100" width="100" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png">
-  <img align="right" alt="Thiago-Luffy" height="150" style="border-radius: 50px;" src="https://i.pinimg.com/originals/a4/66/c1/a466c130f9fda1dd65eaf980bb9f9961.jpg">
+  <img align="right" alt="Thiago-Luffy" height="150" style="border-radius: 50px;" src="https://github.com/ThiagooSG/thiagoosg/blob/main/luffy.jpg?raw=true">
 </div>
  <br><br>
 <div>
