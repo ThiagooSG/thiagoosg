@@ -31,4 +31,6 @@
   <a href="https://www.youtube.com/channel/UCXGwK9k7fnf2tFtXCUnk_Yg" target="_blank"><img src="https://img.shields.io/badge/YouTube_Gaming-FF0000?style=for-the-badge&logo=youtube-gaming&logoColor=white" target="_blank"></a>
   <a href = "mailto:thiagosg.ti@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
   <a href="https://www.linkedin.com/in/thiago-sg/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+  ![ Snake animation ](https://github.com/ThiagoSG/ThiagoSG/blob/output/github-contribution-grid-snake.svg)
 </div>
