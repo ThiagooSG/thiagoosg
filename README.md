@@ -8,6 +8,7 @@
     <li>Curso de JavaScript e TypeScript do básico ao avançado
     <li>Curso de Python 3 do Básico Ao Avançado
     <li> Formação Machine Learning Specialist
+    <li> 100 Days of Code: The Complete Python Pro Bootcamp for 2022
     </ol>
 
 <li> 🧑🏽‍💻 Em busca do Full Stack!
