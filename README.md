@@ -1,6 +1,6 @@
 <h1>Olá!!! Eu sou o Thiago!</h1>
 <h2> Um pouquinho sobre mim:</h2>
-<li> 🧑🏽‍💼 Hoje trabalho com suporte em automação comercial e industrial
+<li> 🧑🏽‍💼 Hoje trabalho como admninistrador de redes e infraestrutura
 <li> 💻 Conhecimento em HTML, CSS, JavaScript e Python
 <li> 🧑🏽‍🎓 📚 Estudante de Ciência da Computação
 <li> 💻 Buscando mais hard skills com os cursos:
