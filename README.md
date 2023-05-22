@@ -1,4 +1,4 @@
-<img alt="imagens de varias coisas" height="100" width="100%" src="/evolution.jpg">
+<img alt="imagens de varias coisas" height="100" width="100%" src="/evolution.png">
 <h1 align="center">Thiago - <img src="/em-construcao.gif"/></h1>
 <h2 align="center">Skills: <img height="28" width="250" src="/em_desenvolvimento.svg"/></h2>
 <div align="center" style="display: inline_block"><br>
