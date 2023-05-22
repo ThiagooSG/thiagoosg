@@ -11,7 +11,7 @@
   <img alt="Thiago-Python" height="40" width="50" src="https://api.iconify.design/devicon:python.svg">
   <img alt="Thiago-Java" height="40" width="50" src="https://api.iconify.design/devicon:java.svg">
   <img alt="Thiago-Git" height="40" width="50" src="https://api.iconify.design/devicon:git.svg">
-  <img alt="Thiago-GitHub" height="40" width="50" src="https://api.iconify.design/devicon:github.svg">
+  <img alt="Thiago-GitHub" height="40" width="50" src="https://api.iconify.design/pajamas:github.svg">
 </div>
 <h2 align="center">Tecnologias utilizadas:</h2>
 <div align="center" style="display: inline_block"><br>
