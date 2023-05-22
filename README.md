@@ -1,7 +1,11 @@
-<img alt="imagens de varias coisas" height="100" width="100%" src="/evolution.png">
-<h1 align="center">Thiago - <img src="/em-construcao.gif"/></h1>
-<h2 align="center">Skills: <img height="28" width="250" src="/em_desenvolvimento.svg"/></h2>
-<div align="center" style="display: inline_block"><br>
+<h1 align="center">Estou <img src="/em-construcao.gif"/></h1>
+<h6 align="center">Olá pessoal, sou o Thiago e estou constante construção e desenvolvimento.</h6>
+<p align="center" >💻 **Estou me graduando em Ciência da Computação.** <br> 
+🧑🏽‍💼 **Atuo como Administrador de Redes e Infraestrutura.** <br> 🕵🏽‍♂️ **Em busca da 1ª oportunidade como desenvolvedor.** <br> 😍 **Apaixonado por Filme, Séries, Animes e Games!**</p>
+<br><br>
+
+<h2 align="center" style="display: inline_block">Skills: <img height="28" width="250" src="/em_desenvolvimento.svg"/></h2>
+<div align="center"><br>
   <img alt="Thiago-HTML5" height="40" width="50" src="https://api.iconify.design/devicon:html5.svg">
   <img alt="Thiago-CSS" height="40" width="50" src="https://api.iconify.design/devicon:css3.svg">
   <img alt="Thiago-JS" height="40" width="50" src="https://api.iconify.design/devicon:javascript.svg">
