@@ -6,9 +6,7 @@
   <img alt="Thiago-JS" height="40" width="50" src="https://api.iconify.design/devicon:javascript.svg">
   <img alt="Thiago-Python" height="40" width="50" src="https://api.iconify.design/devicon:python.svg">
   <img alt="Thiago-Java" height="40" width="50" src="https://api.iconify.design/devicon:java.svg">
-    
-
-</div><img align="right" alt="Thiago-Luffy" height="150" style="border-radius: 50px;" src="https://github.com/ThiagooSG/thiagoosg/blob/main/luffy.png">
+</div>
 <h2 align="center">Tecnologias utilizadas:</h2>
 <div align="center" style="display: inline_block"><br>
   <img alt="Thiago-Vscode" height="40" width="50" src="https://api.iconify.design/devicon:vscode.svg">
@@ -67,3 +65,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagooSG&stroke=bd93f9&background=171717&ring=3382ed&fire=3382ed&currStreakNum=bd93f9&currStreakLabel=3382ed&sideNums=bd93f9&sideLabels=bd93f9&dates=bd93f9&hide_border=true" /></a>
 </div>
  </div>
+ <img align="right" alt="Thiago-Luffy" height="150" style="border-radius: 50px;" src="https://github.com/ThiagooSG/thiagoosg/blob/main/luffy.png">
