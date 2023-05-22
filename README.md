@@ -1,37 +1,49 @@
-<h1>Olá!!! Eu sou o Thiago!</h1>
-<h2> Um pouquinho sobre mim:</h2>
-<li> 🧑🏽‍💼 Hoje trabalho como administrador de redes e infraestrutura
-<li> 💻 Conhecimento em HTML, CSS, JavaScript e Python
-<li> 🧑🏽‍🎓 📚 Estudante de Ciência da Computação
-<li> 💻 Buscando mais hard skills com os cursos:
-    <ol>
-    <li>Curso de JavaScript e TypeScript do básico ao avançado
-    <li>Curso de Python 3 do Básico Ao Avançado
-    <li> Formação Machine Learning Specialist
-    <li> 100 Days of Code: The Complete Python Pro Bootcamp for 2022
-    </ol>
+ <div align="center" >
+<img src="https://github-profile-trophy.vercel.app/?username=ThiagooSG&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+  </div>
+  <br />
 
-<li> 🧑🏽‍💻 Em busca do Full Stack!
-<li> 🕵🏽‍♂️ Procurando a 1ª oportunidade
-<li> 😍 Apaixonado por Animes e Games!
-<br> <br>
-<div align="center">
-  <a href="https://github.com/ThiagooSG">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagooSG&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagooSG&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Thiago-HTML5" height="40" width="50" src="https://cdn0.iconfinder.com/data/icons/HTML5/512/HTML_Logo.png">
-  <img align="center" alt="Thiago-CSS" height="40" width="50" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png">
-  <img align="center" alt="Thiago-JS" height="40" width="50" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png">
-  <img align="center" alt="Thiago-Python" height="40" width="50" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png">
-  <img align="right" alt="Thiago-Luffy" height="150" style="border-radius: 50px;" src="https://github.com/ThiagooSG/thiagoosg/blob/main/luffy.png">
-</div>
-<br><br>
-<div>
-  <a href="https://www.youtube.com/channel/UCXGwK9k7fnf2tFtXCUnk_Yg" target="_blank"><img src="https://img.shields.io/badge/YouTube_Gaming-FF0000?style=for-the-badge&logo=youtube-gaming&logoColor=white" target="_blank"></a>
-  <a href = "mailto:thiagosg.ti@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
-  <a href="https://www.linkedin.com/in/thiago-sg/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+  
+  
+ 
+   ![Snake animation](https://github.com/ThiagooSG/thiagoosg/blob/output/github-contribution-grid-snake.svg)
+  
 
-  ![Snake animation](https://github.com/ThiagooSG/thiagoosg/blob/output/github-contribution-grid-snake.svg)
+  
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ThiagooSG&bg_color=red&color=bd93f9&line=bd93f9&point=f1f5f9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ThiagooSG&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagooSG&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
+
+
+
+ 
+
+  
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+ 
+  
+  
+
+  
+
+
+
+ <div style="">
+   <div align='center'>
+<a height="150em" href="http://www.github.com/ThiagooSG">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isaac545454&stroke=bd93f9&background=171717&ring=3382ed&fire=3382ed&currStreakNum=bd93f9&currStreakLabel=3382ed&sideNums=bd93f9&sideLabels=bd93f9&dates=bd93f9&hide_border=true" /></a>
 </div>
+ </div>
