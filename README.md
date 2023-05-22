@@ -1,5 +1,5 @@
 <h1 align="center">Estou <img src="/em-construcao.gif"/></h1>
-<p align="center">Sou o Thiago e estou nessa jornada para me tornar umn desenvolvedor! ♾️</p>
+<p align="center">Sou o Thiago e estou nessa jornada para me tornar um desenvolvedor! ♾️</p>
 <p align="center" >💻 Estou me graduando em Ciência da Computação. <br> 
 🧑🏽‍💼 Atuo como Administrador de Redes e Infraestrutura. <br> 🕵🏽‍♂️ Em busca da 1ª oportunidade como desenvolvedor. <br> 😍 Apaixonado por Filme, Séries, Animes e Games!</p>
 <br>
