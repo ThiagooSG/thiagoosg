@@ -1,9 +1,8 @@
 <h1 align="center">Estou <img src="/em-construcao.gif"/></h1>
-<p align="center">Olá pessoal, sou o Thiago e estou em constante construção e desenvolvimento.</p>
-<p align="center" style="display: inline_block">💻 Estou me graduando em Ciência da Computação. <br> 
-🧑🏽‍💼 Atuo como Administrador de Redes e Infraestrutura.** <br> 🕵🏽‍♂️ Em busca da 1ª oportunidade como desenvolvedor. <br> 😍 Apaixonado por Filme, Séries, Animes e Games!</p>
-<br><br>
-
+<p align="center">Sou o Thiago e estou nessa jornada para me tornar umn desenvolvedor! ♾️</p>
+<p align="center" >💻 Estou me graduando em Ciência da Computação. <br> 
+🧑🏽‍💼 Atuo como Administrador de Redes e Infraestrutura. <br> 🕵🏽‍♂️ Em busca da 1ª oportunidade como desenvolvedor. <br> 😍 Apaixonado por Filme, Séries, Animes e Games!</p>
+<br>
 <h2 align="center" style="display: inline_block">Skills: <img height="28" width="250" src="/em_desenvolvimento.svg"/></h2>
 <div align="center"><br>
   <img alt="Thiago-HTML5" height="40" width="50" src="https://api.iconify.design/devicon:html5.svg">
@@ -13,7 +12,7 @@
   <img alt="Thiago-Java" height="40" width="50" src="https://api.iconify.design/devicon:java.svg">
 </div>
 <h2 align="center">Tecnologias utilizadas:</h2>
-<div align="center"><br>
+<div align="center" style="display: inline_block"><br>
   <img alt="Thiago-Vscode" height="40" width="50" src="https://api.iconify.design/devicon:vscode.svg">
   <img alt="Thiago-Intellij" height="40" width="50" src="https://api.iconify.design/devicon:intellij.svg">
   <img alt="Thiago-Pycharm" height="40" width="50" src="https://api.iconify.design/devicon:pycharm.svg">
