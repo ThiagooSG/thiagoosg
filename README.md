@@ -1,4 +1,4 @@
-<h1 align="center">Thiago - <img align="right"src="/em-construcao.gif"/></h1>
+<h1 align="center">Thiago - <img align="right"src="/em-construcao.gif"/></h1><br><br><br>
 <font size="6"><h2 align="center">Skills: <img height="28" width="250" src="/em_desenvolvimento.svg"/></h2></font>
 <div align="center" style="display: inline_block"><br>
   <img alt="Thiago-HTML5" height="40" width="50" src="https://api.iconify.design/devicon:html5.svg">
