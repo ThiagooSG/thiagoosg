@@ -1,5 +1,5 @@
 <h1>Thiago - <img src="/em-construcao.gif"/></h1>
-<h2>Skills: <img height="40" width="50" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/></h2>
+<h2>Skills: <img height="28" width="250" src="/em_desenvolvimento.svg"/></h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Thiago-HTML5" height="40" width="50" src="https://api.iconify.design/devicon:html5.svg">
   <img align="center" alt="Thiago-CSS" height="40" width="50" src="https://api.iconify.design/devicon:css3.svg">
