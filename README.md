@@ -1,6 +1,6 @@
-<h1>Thiago - <img src="/em-construcao.gif"/></h1>
-<h2>Skills: <img height="28" width="250" src="/em_desenvolvimento.svg"/></h2>
-<div style="display: inline_block"><br>
+<h1 align="center">Thiago - <img src="/em-construcao.gif"/></h1>
+<h2 align="center">Skills: <img height="28" width="250" src="/em_desenvolvimento.svg"/></h2>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="Thiago-HTML5" height="40" width="50" src="https://api.iconify.design/devicon:html5.svg">
   <img align="center" alt="Thiago-CSS" height="40" width="50" src="https://api.iconify.design/devicon:css3.svg">
   <img align="center" alt="Thiago-JS" height="40" width="50" src="https://api.iconify.design/devicon:javascript.svg">
@@ -9,8 +9,8 @@
     
   <img align="right" alt="Thiago-Luffy" height="150" style="border-radius: 50px;" src="https://github.com/ThiagooSG/thiagoosg/blob/main/luffy.png">
 </div>
-<h2>Tecnologias utilizadas:</h2>
-<div style="display: inline_block"><br>
+<h2 align="center">Tecnologias utilizadas:</h2>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="Thiago-Vscode" height="40" width="50" src="https://api.iconify.design/devicon:vscode.svg">
   <img align="center" alt="Thiago-Intellij" height="40" width="50" src="https://api.iconify.design/devicon:intellij.svg">
   <img align="center" alt="Thiago-Pycharm" height="40" width="50" src="https://api.iconify.design/devicon:pycharm.svg">
