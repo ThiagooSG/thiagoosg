@@ -1,5 +1,5 @@
 <h1 align="center">Estou <img src="/em-construcao.gif"/></h1>
-<h6 align="center">Olá pessoal, sou o Thiago e estou constante construção e desenvolvimento.</h6>
+<h6 align="center">Olá pessoal, sou o Thiago e estou em constante construção e desenvolvimento.</h6>
 <p align="center" >💻 **Estou me graduando em Ciência da Computação.** <br> 
 🧑🏽‍💼 **Atuo como Administrador de Redes e Infraestrutura.** <br> 🕵🏽‍♂️ **Em busca da 1ª oportunidade como desenvolvedor.** <br> 😍 **Apaixonado por Filme, Séries, Animes e Games!**</p>
 <br><br>
