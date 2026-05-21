@@ -1,7 +1,7 @@
 <h1 align="center">Estou <img src="/em-construcao.gif"/></h1>
 <p align="center">Sou o Thiago e estou nessa jornada para me tornar um desenvolvedor que é um exercício diário! ♾️</p>
 <p align="center" >💻 Graduado Análise e Desenvolvimento de Sistemas. <br> 
-🧑🏽‍💼 Atuo como Analista de Sistemas. <br> 🕵🏽‍♂️ Em busca da 1ª oportunidade como desenvolvedor. <br> 😍 Apaixonado por Filme, Séries, Animes e Games!</p>
+🧑🏽‍💼 Atuo como Analista de Sistemas. <br> 😍 Apaixonado por Filme, Séries, Animes e Games!</p>
 <br>
 <h2 align="center" style="display: inline_block">Skills: <img height="28" width="250" src="/em_desenvolvimento.svg"/></h2>
 <div align="center"><br>
