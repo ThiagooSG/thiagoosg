@@ -1,74 +1,97 @@
-<h1 align="center">Estou <img src="/em-construcao.gif"/></h1>
-<p align="center">Sou o Thiago e estou nessa jornada para me tornar um desenvolvedor que é um exercício diário! ♾️</p>
-<p align="center" >💻 Graduado Análise e Desenvolvimento de Sistemas. <br> 
-🧑🏽‍💼 Atuo como Analista de Sistemas. <br> 😍 Apaixonado por Filme, Séries, Animes e Games!</p>
-<br>
-<h2 align="center" style="display: inline_block">Skills: <img height="28" width="250" src="/em_desenvolvimento.svg"/></h2>
-<div align="center"><br>
-  <img alt="Thiago-HTML5" height="40" width="50" src="https://api.iconify.design/devicon:html5.svg">
-  <img alt="Thiago-CSS" height="40" width="50" src="https://api.iconify.design/devicon:css3.svg">
-  <img alt="Thiago-JS" height="40" width="50" src="https://api.iconify.design/devicon:javascript.svg">
-  <img alt="Thiago-Python" height="40" width="50" src="https://api.iconify.design/devicon:python.svg">
-  <img alt="Thiago-Java" height="40" width="50" src="https://api.iconify.design/devicon:java.svg">
-  <img alt="Thiago-Git" height="40" width="50" src="https://api.iconify.design/devicon:git.svg">
-  <img alt="Thiago-GitHub" height="40" width="50" src="https://api.iconify.design/pajamas:github.svg">
+<div align="center">
+
+<h1>Estou <img src="/em-construcao.gif"/></h1>
+
+<h3>Analista de Sistemas | Desenvolvedor Full Stack</h3>
+
+<strong>Software evolui. Eu também. ♾️</strong>
+
+<p>
+Graduado em <strong>Análise e Desenvolvimento de Sistemas</strong>, atuo como <strong>Analista de Sistemas</strong>, desenvolvendo e evoluindo soluções voltadas para aplicações web, APIs, integrações, automação e sistemas corporativos.
+</p>
+
+<p>
+Gosto de entender não apenas <strong>como fazer algo funcionar</strong>, mas também como estruturar soluções que sejam organizadas, sustentáveis e possam evoluir com o tempo.
+</p>
+
 </div>
-<h2 align="center">Tecnologias utilizadas:</h2>
-<div align="center" style="display: inline_block"><br>
-  <img alt="Thiago-Vscode" height="40" width="50" src="https://api.iconify.design/devicon:vscode.svg">
-  <img alt="Thiago-Intellij" height="40" width="50" src="https://api.iconify.design/devicon:intellij.svg">
-  <img alt="Thiago-Pycharm" height="40" width="50" src="https://api.iconify.design/devicon:pycharm.svg">
-  <img alt="Thiago-Figma" height="40" width="50" src="https://api.iconify.design/devicon:figma.svg">
-</div>  
+
+---
+
+## 👨‍💻 Sobre mim
+
+- 💼 Atuo profissionalmente como **Analista de Sistemas**
+- 🎓 Graduado em **Análise e Desenvolvimento de Sistemas**
+- 🌐 Desenvolvimento de aplicações **Full Stack**
+- 🔌 Desenvolvimento e integração de **APIs**
+- ⚙️ Interesse em **automação, arquitetura de software e integração de sistemas**
+- 🐧 Utilizo **Linux** em ambientes de desenvolvimento e servidores
+- 📚 Sempre estudando novas tecnologias e buscando evoluir como desenvolvedor
+- 🎮 Fora do código: filmes, séries, animes e games
+
+---
+
+## 🚀 Stack principal
+
+<div align="center">
+
+<img alt="JavaScript" height="42" width="52" src="https://api.iconify.design/devicon:javascript.svg">
+<img alt="TypeScript" height="42" width="52" src="https://api.iconify.design/devicon:typescript.svg">
+<img alt="Node.js" height="42" width="52" src="https://api.iconify.design/devicon:nodejs.svg">
+<img alt="React" height="42" width="52" src="https://api.iconify.design/devicon:react.svg">
+<img alt="Vite" height="42" width="52" src="https://api.iconify.design/devicon:vitejs.svg">
+<img alt="Python" height="42" width="52" src="https://api.iconify.design/devicon:python.svg">
+<img alt="FastAPI" height="42" width="52" src="https://api.iconify.design/devicon:fastapi.svg">
+
 <br><br>
 
-<div align="center" >
-<img src="https://github-profile-trophy.vercel.app/?username=ThiagooSG&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
-  </div>
-  <br />
+<img alt="Oracle" height="42" width="52" src="https://api.iconify.design/devicon:oracle.svg">
+<img alt="PostgreSQL" height="42" width="52" src="https://api.iconify.design/devicon:postgresql.svg">
+<img alt="Git" height="42" width="52" src="https://api.iconify.design/devicon:git.svg">
+<img alt="Linux" height="42" width="52" src="https://api.iconify.design/devicon:linux.svg">
+<img alt="Nginx" height="42" width="52" src="https://api.iconify.design/devicon:nginx.svg">
 
-  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
-  
-  
- 
-   ![Snake animation](https://github.com/ThiagooSG/thiagoosg/blob/output/github-contribution-grid-snake.svg)
-  
-
-  
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ThiagooSG&bg_color=red&color=bd93f9&line=bd93f9&point=f1f5f9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ThiagooSG&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagooSG&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
- | ----------- | ----------- |
-
-
-
- 
-
-  
-
-
-
- 
- 
- 
-
-
-
-
-
-
- 
-  
-  
-
-  
-
-
-
- <div style="">
-   <div align='center'>
-<a height="150em" href="http://www.github.com/ThiagooSG">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagooSG&stroke=bd93f9&background=171717&ring=3382ed&fire=3382ed&currStreakNum=bd93f9&currStreakLabel=3382ed&sideNums=bd93f9&sideLabels=bd93f9&dates=bd93f9&hide_border=true" /></a>
 </div>
- </div>
- <img align="right" alt="Thiago-Luffy" height="150" style="border-radius: 50px;" src="https://github.com/ThiagooSG/thiagoosg/blob/main/luffy.png">
+
+---
+
+## 🛠️ Ferramentas
+
+<div align="center">
+
+<img alt="VS Code" height="40" width="50" src="https://api.iconify.design/devicon:vscode.svg">
+<img alt="WebStorm" height="40" width="50" src="https://api.iconify.design/devicon:webstorm.svg">
+<img alt="PyCharm" height="40" width="50" src="https://api.iconify.design/devicon:pycharm.svg">
+<img alt="GitHub" height="40" width="50" src="https://api.iconify.design/devicon:github.svg">
+
+</div>
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThiagooSG&theme=dracula" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagooSG&theme=dracula&hide_border=true" />
+
+</div>
+
+---
+
+## 🌱 Em constante evolução
+
+Tecnologia é um processo contínuo de aprendizado.
+
+Este perfil acompanha essa evolução: novos estudos, novas tecnologias e, em breve, projetos que representem melhor minha experiência e o tipo de solução que gosto de desenvolver.
+
+<div align="center">
+
+<h3>💻 Código, aprendizado e evolução contínua. ♾️</h3>
+
+<img alt="Thiago-Luffy" height="150" src="https://github.com/ThiagooSG/thiagoosg/blob/main/luffy.png">
+
+</div>
